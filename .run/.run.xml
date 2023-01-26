@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="JUnit" factoryName="JUnit">
+    <module name="TaskManager" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.example.taskmanager.service.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.example.taskmanager.security" />
+    <option name="MAIN_CLASS_NAME" value="com.example.taskmanager.security.IUserDetailsServiceTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
