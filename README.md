@@ -6,7 +6,7 @@ To ensure secure and efficient task management, the following steps have been ta
 
 1- Login API has been created, which accepts a user's email and password as input.
 2- Passwords are encrypted before being stored in the database for added security.
-3- Authorization has been implemented for all existing APIs, ensuring that only authenticated users can access them.
+3- Authorization has been implemented for all existing APIs, ensuring that only authenticated users can access them using JWT.
 4- A logout feature has been added to allow users to logout from all places at once.
 5- Validation has been added to prevent time conflicts between tasks for the same user.
 6- Pagination and sorting have been implemented to make the response more manageable.
